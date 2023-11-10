@@ -30,13 +30,21 @@ open index.html
 Simply open the index.html file in your web browser to view the portfolio. There is no need for a local server or complex setup.
 ## Folder Structure
 portfolio/
+
 |-- index.html          # Main HTML file
+
 |-- css/                # Stylesheets
+
 |   |-- style.css       # Main CSS file
+
 |-- img/                # Images
+
 |-- js/                 # JavaScript
+
 |   |-- main.js         # Main JavaScript file
-|-- projects/           # Project details (e.g., project1.md, project2.md)
+
+|-- projects/           # Project details
+
 |-- README.md           # Project documentation
 ## Project
 A portfolio website serves as a virtual showcase, highlighting your best work and professional identity. It provides an intuitive user experience, guiding visitors through your projects and leaving a lasting impression. From clean design to responsive functionality, it's a dynamic reflection of your skills and expertise.
