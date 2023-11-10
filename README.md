@@ -22,7 +22,7 @@ This repository contains the source code for personal portfolio website. The web
 
 ## Installation
 # 1.clone the repository
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/Mohana-priya-j/Portfolio_Website
 # 2.Open index.html in your web browser
 cd portfolio
 open index.html
