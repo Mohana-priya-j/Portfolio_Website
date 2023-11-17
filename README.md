@@ -34,12 +34,19 @@ Simply open the index.html file in your web browser to view the portfolio. There
 portfolio/
 
 |-- index.html          # Main HTML file
+
 |-- css/                # Stylesheets
+
 |   |-- style.css       # Main CSS file
+
 |-- img/                # Images
+
 |-- js/                 # JavaScript
+
 |   |-- main.js         # Main JavaScript file
+
 |-- projects/           # Project details
+
 |-- README.md           # Project documentation
 
 ## Project
